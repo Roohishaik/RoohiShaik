@@ -1,7 +1,7 @@
-### Hi there 👋
-<img src="![facets-of-data-analytics](https://github.com/Roohishaik/RoohiShaik/assets/94975857/739240ef-b284-41c6-8042-9a597ae6bc6f)>
 <h1 align="center">Hi 👋, I'm Roohi Shaik.</h1>
-<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
+<img src="![facets-of-data-analytics](https://github.com/Roohishaik/RoohiShaik/assets/94975857/739240ef-b284-41c6-8042-9a597ae6bc6f)>
+
+<h3 align="center">A data sleuth with a passion for deciphering numbers and a commitment to the principle of using data for positive impact.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 I'm a final year Computer Science Engineering student with an insatiable curiosity for all things tech. My journey in the realm of technology has been driven by an unbridled passion to explore the intersection of data and innovation.
@@ -14,7 +14,7 @@ Beyond the lines of code, I am driven by a genuine love for technology and its t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/roohi-s" width="40" /></a>
+<a href="http://www.linkedin.com/in/roohi-s"target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Roohishaik" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
