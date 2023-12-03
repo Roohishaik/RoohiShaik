@@ -1,5 +1,5 @@
 
-<img src=![facets-of-data-analytics](https://github.com/Roohishaik/RoohiShaik/assets/94975857/739240ef-b284-41c6-8042-9a597ae6bc6f)>
+<img src=! [facets-of-data-analytics](https://github.com/Roohishaik/RoohiShaik/assets/94975857/739240ef-b284-41c6-8042-9a597ae6bc6f)>
 <h1 align="center">Hi 👋, I'm Roohi Shaik.</h1> 
 <h3 align="center">A data sleuth with a passion for deciphering numbers and a commitment to the principle of using data for positive impact.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
